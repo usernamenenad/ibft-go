@@ -1,0 +1,1 @@
+# ibft-go - Library for injecting Istanbul Byzantine Fault Tolerant algorithm in your distributed system
